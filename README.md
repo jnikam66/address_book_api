@@ -15,7 +15,7 @@ Clone this git repository / download and extract the .zip file. Import into ecli
 
 Step 3:
 
-Get the application up and running. You can now use the RESt API's in this project as shown below :  
+Get the application up and running. You can now use the REST API's in this project as shown below :  
 
 GET /contact?pageSize={}&page={}&query={}
 
